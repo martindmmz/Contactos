@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Crear nuevo contacto</string>
+    <string name="txt_nombre">Nombre del contacto</string>
+    <string name="txt_twitter">Twitter</string>
+    <string name="txt_correo">Correo</string>
+    <string name="txt_telefono">Teléfono</string>
+    <string name="txt_fecha">Fecha nacimiento</string>
+    <string name="label_nombre">Nombre:</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_agregar">Agregar contacto</string>
+
+</resources>
